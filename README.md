@@ -2,7 +2,7 @@
 
 Aplicação desenvolvida na semana OmniStack 11.
 
-[https://uploadpost133.s3.amazonaws.com/405c0378e7cf4566c70fd7d7e4765864-be-the-hero.png]
+![](https://uploadpost133.s3.amazonaws.com/405c0378e7cf4566c70fd7d7e4765864-be-the-hero.png)
 
 ## Instalação
 
@@ -31,6 +31,9 @@ Acesse primeiramente a pasta do back-end e execute o servidor:
 cd backend/
 yarn dev
 ```
+
+O servidor estará rodando na porta 3333, http://localhost:3333
+Importe o arquivo Insomnia_2020-03-25.json para seu Insomnia e teste as rotas.
 
 Acesse agora a pasta do front-end e execute o react:
 
