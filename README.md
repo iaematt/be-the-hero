@@ -2,7 +2,7 @@
 
 Aplicação desenvolvida na semana OmniStack 11.
 
-(https://uploadpost133.s3.amazonaws.com/405c0378e7cf4566c70fd7d7e4765864-be-the-hero.png)
+[https://uploadpost133.s3.amazonaws.com/405c0378e7cf4566c70fd7d7e4765864-be-the-hero.png]
 
 ## Instalação
 
