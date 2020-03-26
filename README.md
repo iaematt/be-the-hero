@@ -4,9 +4,11 @@ Aplicação desenvolvida na semana OmniStack 11.
 
 ![](https://uploadpost133.s3.amazonaws.com/405c0378e7cf4566c70fd7d7e4765864-be-the-hero.png)
 
+Projeto online: http://bethehero.devbsb.com.br/
+
 ## Instalação
 
-Clone ou faça o downlod desse repositório, acesse as pastas [back-end, front-end, mobile] e faça a instalação dos pacotes:
+Clone ou faça o downlod desse repositório, acesse as pastas [backend, frontend, mobile] e faça a instalação dos pacotes:
 
 ```bash
 cd backend/
@@ -32,7 +34,8 @@ cd backend/
 yarn dev
 ```
 
-O servidor estará rodando na porta 3333, http://localhost:3333
+O servidor estará rodando na porta 3333, localhost:3333
+
 Importe o arquivo Insomnia_2020-03-25.json para seu Insomnia e teste as rotas.
 
 Acesse agora a pasta do front-end e execute o react:

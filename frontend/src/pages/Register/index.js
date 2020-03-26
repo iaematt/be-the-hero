@@ -32,7 +32,10 @@ function Register() {
 
       alert(`Seu ID de acesso: ${response.data.id}`);
 
-      history.push("/");
+      localStorage.setItem("ong_id", response.data.id);
+      localStorage.setItem("ong_name", name);
+
+      history.push("/profile");
     } catch (err) {
       alert("Erro no cadastro, tente novamente.");
     }
