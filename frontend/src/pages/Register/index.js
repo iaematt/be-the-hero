@@ -80,7 +80,7 @@ function Register() {
 
             <div className="input-group">
               <input
-                placeholder="cidade"
+                placeholder="Cidade"
                 value={city}
                 onChange={e => setCity(e.target.value)}
               />

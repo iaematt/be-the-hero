@@ -20,11 +20,6 @@ cd ../frontend/
 yarn
 ```
 
-```bash
-cd ../mobile/
-yarn
-```
-
 ## Exemplo de uso
 
 Acesse primeiramente a pasta do back-end e execute o servidor:
@@ -51,4 +46,4 @@ Matheus Bastos – [@iaematt\_](https://instagram.com/iaematt_) – matheusbasto
 
 Distribuído sob a licença MIT.
 
-[https://github.com/iaematt/semanaomnistack11](https://github.com/iaematt/)
+[https://github.com/iaematt](https://github.com/iaematt)
