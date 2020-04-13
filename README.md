@@ -73,9 +73,6 @@ $ yarn start
 
 ## Meta
 
-[Matheus Bastos](http://devbsb.com.br) – [instagram/@iaematt\_](https://instagram.com/iaematt_) – [Contato via e-mail](mailto:matheusbastos@outlook.com)
+[Portfólio](http://devbsb.com.br) – [E-Mail](mailto:matheusbastos@outlook.com) – [Instagram](https://instagram.com/iaematt_)  – [GitHub](https://github.com/iaematt)
 
-
-Distribuído sob a licença MIT.
-
-[github/iaematt](https://github.com/iaematt)
+*Distribuído sob a licença MIT.*
